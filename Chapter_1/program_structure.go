@@ -22,5 +22,5 @@ func printLine(length int) {
 }
 
 func main() {
-	PrintLength("Hello goooooooooooooooooooooooooooooooooooooooolang!")
+	PrintLength("Hello gooooooooooooooooooooooooooooooooooooooooooolang!")
 }
