@@ -2,9 +2,10 @@
 <html>
  <head>
    <meta charset="utf-8">
-  <title>Golang project</title>
+  <title></title>
  </head>
  <body>
+  <h1>Golang project</h1>
   <p><a href="https://metanit.com/go/tutorial/1.1.php">Chapter 1</a></p>
  </body>
 </html>
