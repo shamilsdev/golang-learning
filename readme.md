@@ -5,6 +5,6 @@
  </head>
  <body>
   <h1>Golang project</h1>
-  <p><a href="https://metanit.com/go/tutorial/1.1.php">Chapter 1. Introduction to Go Programming Language</a></p>
+  <p><a href="https://metanit.com/go/tutorial/1.1.php">Chapter 1</a></p>
  </body>
 </html>
